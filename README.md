@@ -1,0 +1,1 @@
+# D6_Ak-sSemasi_Dizi_Pointer_Dosyalama_Fonksiyonlar
